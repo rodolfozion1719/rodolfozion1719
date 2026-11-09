@@ -7,7 +7,7 @@
 Sou estudante de **Bacharelado em Inteligência Artificial** pela Universidade Federal de Jataí (UFJ), interessado em transformar dados e modelos em soluções reais. Gosto de me envolver na comunidade acadêmica e de tecnologia, além de estar sempre aprimorando meu ecossistema de ferramentas de desenvolvimento.
 
 * 🎓 **Formação:** Graduação em Inteligência Artificial na UFJ.
-* 🤝 **Comunidade e Extensão:** Membro do Cyber Bee Lab, participante da Rede Solidária Inteligente e parte da organização do IA Talks (UFJ). Também marquei presença em competições como o 7º Abóbora Contest.
+* 🤝 **Comunidade e Extensão:** Membro do Cyber Bee Lab, participante da Rede Solidária Inteligente e parte da organização do IA Talks (UFJ). 
 * 🗣️ **Idiomas:** Em constante aprimoramento através de estudos poliglotas.
 * 📫 **Como me encontrar:** rodolfobrito2203@gmail.com ou [LinkedIn](https://www.linkedin.com/in/rodolfo-zion-ruthes-brito/)
 
@@ -19,13 +19,6 @@ Sou estudante de **Bacharelado em Inteligência Artificial** pela Universidade F
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-## 📊 Estatísticas do GitHub
-
-<div align="left">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=rodolfozion1719&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodolfozion1719&layout=compact&langs_count=7&theme=radical"/>
-</div>
 
 ### 📊 Estatísticas do GitHub
 
