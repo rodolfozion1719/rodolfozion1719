@@ -8,7 +8,7 @@ Sou estudante de **Bacharelado em Inteligência Artificial** pela Universidade F
 
 * 🎓 **Formação:** Graduação em Inteligência Artificial na UFJ.
 * 🤝 **Comunidade e Extensão:** Membro do Cyber Bee Lab, participante da Rede Solidária Inteligente e parte da organização do IA Talks (UFJ). 
-* 🗣️ **Idiomas:** Em constante aprimoramento através de estudos poliglotas.
+* 🗣️ **Idiomas:** Em constante aprimoramento através de estudos poliglotas(Inglês e Japonês).
 * 📫 **Como me encontrar:** rodolfobrito2203@gmail.com ou [LinkedIn](https://www.linkedin.com/in/rodolfo-zion-ruthes-brito-a3a5123b8/)
 
 ## 🛠️ Tecnologias e Ferramentas
