@@ -1,4 +1,4 @@
-### Olá, eu sou o Rodolfo Zion! 👋
+### Olá, eu sou o Rodolfo Zion! 😁
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=276DC3&width=435&lines=Inteligência+Artificial+UFJ;Desenvolvedor+Python+e+C;Entusiasta+de+Dados)](https://git.io/typing-svg)
 
