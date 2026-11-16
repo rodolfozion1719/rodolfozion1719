@@ -3,6 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=276DC3&width=435&lines=Artificial+Intelligence+at+UFJ;Python+%26+C+Developer;Data+Enthusiast)](https://git.io/typing-svg)
 
 👨‍💻 **About Me**
+
 Undergraduate student pursuing a **Bachelor’s in Artificial Intelligence** at the Federal University of Jataí (UFJ). Passionate about turning data and machine learning models into practical, real-world solutions. Actively engaged in tech and academic communities, with a strong focus on continuously refining my software development stack.
 
 - 🎓 **Education:** B.S. in Artificial Intelligence at UFJ.
