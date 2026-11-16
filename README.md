@@ -12,7 +12,7 @@
 </div>
 
 ```console
-rodolfo@ufj:~$ whoami
+rodolfo@ufj: WhoAmI
 Rodolfo Zion Ruthes Brito — B.S. Artificial Intelligence, 2nd term @ UFJ
 
 rodolfo@ufj:~$ cat focus.txt
