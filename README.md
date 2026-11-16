@@ -1,15 +1,22 @@
 # Rodolfo Zion Ruthes Brito
 
-> Undergraduate Artificial Intelligence Student at Federal University of Jataí (UFJ).  
-> Focused on the intersection of low-level software engineering (C), machine learning fundamentals (Python), and practical systems architecture.
+<div align="center">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=640&height=50&lines=B.S.+Artificial+Intelligence+%C2%B7+UFJ+%C2%B7+2nd+term;Systems+programming+in+C+%E2%80%94+pointers%2C+memory%2C+data+structures;ML+fundamentals+in+Python+%E2%80%94+Pandas%2C+scikit-learn;Next%3A+MLOps+and+Edge+AI">
+  <img alt="B.S. Artificial Intelligence at UFJ — C systems programming, ML in Python, heading toward MLOps and Edge AI" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=0969DA&center=true&vCenter=true&width=640&height=50&lines=B.S.+Artificial+Intelligence+%C2%B7+UFJ+%C2%B7+2nd+term;Systems+programming+in+C+%E2%80%94+pointers%2C+memory%2C+data+structures;ML+fundamentals+in+Python+%E2%80%94+Pandas%2C+scikit-learn;Next%3A+MLOps+and+Edge+AI">
+</picture>
+
+<sub><code>C</code> · <code>Python</code> · <code>Linux</code> &nbsp;|&nbsp; Cyber Bee Lab @ UFJ &nbsp;|&nbsp; Goiás, Brazil</sub>
+
+</div>
 ---
 
 ### 🛠️ Technical Stack & Tools
 
 - **Languages:** Python (Fluent: OOP, data processing), C (Active: pointers, memory management, data structures).
 - **Data & Scientific Libraries:** Pandas, Scikit-Learn, Jupyter.
-- **Workflow & Tooling:** Git, GitHub, Linux, VS Code.
+- **Workflow & Tooling:** Git, GitHub, VS Code.
 - **Languages Spoken:** Portuguese (Native), English (Intermediate/Upper-Intermediate).
 
 ---
