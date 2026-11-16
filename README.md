@@ -4,7 +4,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=640&height=50&lines=B.S.+Artificial+Intelligence+%C2%B7+UFJ+%C2%B7+2nd+term;Systems+programming+in+C+%E2%80%94+pointers%2C+memory%2C+data+structures;ML+fundamentals+in+Python+%E2%80%94+Pandas%2C+scikit-learn;Next%3A+MLOps+and+Edge+AI">
-  <img alt="B.S. Artificial Intelligence at UFJ — C systems programming, ML in Python, heading toward MLOps and Edge AI" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=0969DA&center=true&vCenter=true&width=640&height=50&lines=B.S.+Artificial+Intelligence+%C2%B7+UFJ+%C2%B7+2nd+term;Systems+programming+in+C+%E2%80%94+pointers%2C+memory%2C+data+structures;ML+fundamentals+in+Python+%E2%80%94+Pandas%2C+scikit-learn;Next%3A+MLOps+and+Edge+AI">
+  <img alt="B.S. Artificial Intelligence at UFJ — C systems programming, ML in Python, heading toward MLOps and Edge AI or NLP" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=0969DA&center=true&vCenter=true&width=640&height=50&lines=B.S.+Artificial+Intelligence+%C2%B7+UFJ+%C2%B7+2nd+term;Systems+programming+in+C+%E2%80%94+pointers%2C+memory%2C+data+structures;ML+fundamentals+in+Python+%E2%80%94+Pandas%2C+scikit-learn;Next%3A+MLOps+and+Edge+AI">
 </picture>
 
 <sub><code>C</code> · <code>Python</code> ·  &nbsp;|&nbsp; Cyber Bee Lab @ UFJ &nbsp;|&nbsp; Goiás, Brazil</sub>
